@@ -1,0 +1,2 @@
+# Keep the source CSVs byte-for-byte (CRLF line endings, as BULK INSERT expects by default)
+*.csv -text
